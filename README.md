@@ -52,6 +52,7 @@ The work is split into three sections:
 ├── README.md
 ├── LICENSE
 ├── Practical_Work_MODELING_Iris_ZAME_NGUINA.pdf   # full report with figures
+├── ZAME_Done.pdf                                  # Corrected/Commented by the professor
 ├── Project.ipynb                                  # code (notebook)
 ├── data/                                          # sinogram1, sinogram2, dot_data.npz
 └── results/                                       # figures
